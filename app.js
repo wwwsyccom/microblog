@@ -26,7 +26,7 @@ app.set('view engine', 'ejs');
 			port: 27017,          //数据库的端口号
 			db: 'test-app'        //数据库的名称。
 	})
-}));
+}));  
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
